@@ -9,7 +9,7 @@ unsigned int i;
 
 void setup() {
 
-/*configuring pin 2 to 8 as output (If you have a BCD to 7-segment decoder then only three pins are required)*/
+/*configuring pin 2 to 8 as output (If you have a BCD to 7-segment decoder then only four pins are required)*/
 
 for(i=2;i<=8;i++)
 {
